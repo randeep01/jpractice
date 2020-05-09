@@ -1,6 +1,6 @@
-## Coding Questions
-# LRU
-'''java
+# Coding Questions
+## LRU
+```java
 class Pair{
     int key;
     int value;
@@ -119,5 +119,5 @@ class LRUCache {
  * int param_1 = obj.get(key);
  * obj.put(key,value);
  */
- '''
+ ```
 
